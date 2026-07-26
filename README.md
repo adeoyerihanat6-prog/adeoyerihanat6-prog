@@ -1,25 +1,57 @@
-# Hi there, I'm Rihanat Eniola 👋🏽💜
+<h1 align="center">Hi 👋🏽, I'm Rihanat Eniola</h1>
 
-### Full Stack Developer
+<h3 align="center">💜 Full Stack Developer | React • Node.js • MongoDB | Building Modern Web Applications</h3>
 
-I'm a passionate Full Stack Developer who enjoys building modern, responsive, and scalable web applications. I love transforming ideas into functional digital experiences while continuously learning and improving my craft.
+<p align="center">
+I'm passionate about building modern, responsive, and scalable web applications that solve real-world problems. I enjoy transforming ideas into functional digital experiences while continuously learning and improving my craft.
+</p>
+
+<p align="center">
+  <a href="https://portfolio-bay-eight-73.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-8A2BE2?style=for-the-badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/rihanat-adeoye/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://x.com/riha66076">
+    <img src="https://img.shields.io/badge/X-Follow-black?style=for-the-badge&logo=x" />
+  </a>
+</p>
+
+---
+
+## 👩🏽‍💻 About Me
+
+- 💜 Full Stack Developer
+- 🌍 Based in Nigeria
+- 🚀 Passionate about building scalable web applications
+- 🌱 Currently improving my backend development and system design skills
+- 🤝 Open to internships, freelance projects, and collaborations
+
+---
 
 ## 🚀 Featured Projects
 
 ### 🛍️ Velora
-A modern e-commerce platform with product browsing, shopping cart functionality, and a responsive user interface.
+A modern full-stack e-commerce platform featuring product browsing, authentication, and cart management.
 
-**Tech Stack:** React • Vite • Tailwind CSS
+**Tech:** React • Vite • Tailwind CSS • Node.js • Express • MongoDB
+
+---
 
 ### 💰 Rihvelle Finance
-A full-stack loan management system with secure authentication and role-based functionality.
+A full-stack loan management system with secure authentication, role-based access, and database integration.
 
-**Tech Stack:** React • Node.js • Express • MongoDB • JWT
+**Tech:** React • Node.js • Express • MongoDB • JWT
+
+---
 
 ### 🎬 Enny's Portfolio
-A sleek portfolio website for an AI video creator featuring animations and a modern UI.
+A cinematic portfolio website designed for an AI Video Creator with smooth animations and responsive layouts.
 
-**Tech Stack:** React • Tailwind CSS • Framer Motion
+**Tech:** React • Tailwind CSS • Framer Motion
+
+---
 
 ### 🤖 DecodeBot
 A rule-based chatbot built with HTML, CSS, and JavaScript.
@@ -28,44 +60,48 @@ A rule-based chatbot built with HTML, CSS, and JavaScript.
 
 ## 💻 Tech Stack
 
-### Frontend
-- React
-- JavaScript
-- HTML5
-- CSS3
-- Tailwind CSS
+<p align="left">
 
-### Backend
-- Node.js
-- Express.js
-- MongoDB
-- REST APIs
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind,git,github,vscode,postman,vercel" />
 
-### Tools
-- Git
-- GitHub
-- Vercel
-- Render
-- Postman
-- VS Code
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=adeoyerihanat6-prog&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adeoyerihanat6-prog&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
 
 ---
 
 ## 🌱 Currently Learning
 
-- Advanced Backend Development
+- Backend Architecture
+- API Design
 - System Design
-- Building scalable full-stack applications
+- Performance Optimization
 
 ---
 
-## 📫 Connect With Me
+## 📫 Let's Connect
 
 - 🌐 Portfolio: https://portfolio-bay-eight-73.vercel.app
 - 💼 LinkedIn: https://www.linkedin.com/in/rihanat-adeoye/
-- 🐦 X: https://x.com/riha66076
-- 📧 Email: *(adeoyerihanat6@gmail.com)*
+- 🐦 X (Twitter): https://x.com/riha66076
+- 💻 GitHub: https://github.com/adeoyerihanat6-prog
 
 ---
 
-⭐ Thanks for visiting my profile!
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=adeoyerihanat6-prog&label=Profile+Views&color=8A2BE2&style=for-the-badge" />
+</p>
+
+---
+
+<h3 align="center">💜 "Building scalable solutions, one commit at a time."</h3>
