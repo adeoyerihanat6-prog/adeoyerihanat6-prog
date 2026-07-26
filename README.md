@@ -34,28 +34,28 @@ I'm passionate about building modern, responsive, and scalable web applications 
 
 ## 🚀 Featured Projects
 
-### 🛍️ Velora
+### 🛍️ [Velora](https://velora-three-lilac.vercel.app)
 A modern full-stack e-commerce platform featuring product browsing, authentication, and cart management.
 
 **Tech:** React • Vite • Tailwind CSS • Node.js • Express • MongoDB
 
 ---
 
-### 💰 Rihvelle Finance
+### 💰 [Rihvelle Finance](https://loan-frontend-olive.vercel.app)
 A full-stack loan management system with secure authentication, role-based access, and database integration.
 
 **Tech:** React • Node.js • Express • MongoDB • JWT
 
 ---
 
-### 🎬 Enny's Portfolio
+### 🎬 [Enny's Portfolio](https://enny-s-portfolio.vercel.app)
 A cinematic portfolio website designed for an AI Video Creator with smooth animations and responsive layouts.
 
 **Tech:** React • Tailwind CSS • Framer Motion
 
 ---
 
-### 🤖 DecodeBot
+### 🤖 [DecodeBot](https://decodebot-ten.vercel.app).
 A rule-based chatbot built with HTML, CSS, and JavaScript.
 
 ---
