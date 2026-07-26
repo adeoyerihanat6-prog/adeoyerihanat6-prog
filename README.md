@@ -63,7 +63,7 @@ Git • GitHub • Vercel • Render • Postman
 
 - Portfolio: https://portfolio-bay-eight-73.vercel.app
 - GitHub: https://github.com/adeoyerihanat6-prog
-- LinkedIn: YOUR_LINKEDIN_LINK
+- LinkedIn: https://www.linkedin.com/in/rihanat-adeoye
 - X: https://x.com/riha66076
 
 ---
