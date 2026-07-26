@@ -1,86 +1,71 @@
-# Hi, I'm Rihanat 👋🏽💜
+# Hi there, I'm Rihanat Eniola 👋🏽💜
 
-## Full Stack Developer
+### Full Stack Developer
 
-I build modern, responsive, and scalable web applications using React, Node.js, Express, and MongoDB.
-
-I enjoy turning ideas into functional products and creating clean user experiences.
-
----
+I'm a passionate Full Stack Developer who enjoys building modern, responsive, and scalable web applications. I love transforming ideas into functional digital experiences while continuously learning and improving my craft.
 
 ## 🚀 Featured Projects
 
-### 🛍️ Velora — E-commerce Platform
-Modern shopping platform with product browsing, cart management, and responsive UI.
+### 🛍️ Velora
+A modern e-commerce platform with product browsing, shopping cart functionality, and a responsive user interface.
 
-**Tech:** React, Vite, Tailwind CSS
+**Tech Stack:** React • Vite • Tailwind CSS
 
----
+### 💰 Rihvelle Finance
+A full-stack loan management system with secure authentication and role-based functionality.
 
-### 💰 Rihvelle Finance — Loan Management System
-A full-stack loan management application with authentication and database integration.
-
-**Tech:** React, Node.js, Express, MongoDB, JWT
-
----
+**Tech Stack:** React • Node.js • Express • MongoDB • JWT
 
 ### 🎬 Enny's Portfolio
-A cinematic portfolio website built for an AI video creator.
+A sleek portfolio website for an AI video creator featuring animations and a modern UI.
 
-**Tech:** React, Tailwind CSS, Framer Motion
-
----
+**Tech Stack:** React • Tailwind CSS • Framer Motion
 
 ### 🤖 DecodeBot
-A rule-based chatbot built with vanilla web technologies.
-
-**Tech:** HTML, CSS, JavaScript
+A rule-based chatbot built with HTML, CSS, and JavaScript.
 
 ---
 
-## 🛠️ Tech Stack
+## 💻 Tech Stack
 
 ### Frontend
-React.js • JavaScript • Tailwind CSS • HTML • CSS
+- React
+- JavaScript
+- HTML5
+- CSS3
+- Tailwind CSS
 
 ### Backend
-Node.js • Express.js • MongoDB • REST APIs
+- Node.js
+- Express.js
+- MongoDB
+- REST APIs
 
 ### Tools
-Git • GitHub • Vercel • Render • Postman
+- Git
+- GitHub
+- Vercel
+- Render
+- Postman
+- VS Code
 
 ---
 
-## 📊 What I'm Currently Doing
+## 🌱 Currently Learning
 
-- Building full-stack applications
-- Improving my backend architecture skills
-- Creating projects that solve real problems
-
----
-
-## 🌐 Connect With Me
-
-- Portfolio: https://portfolio-bay-eight-73.vercel.app
-- GitHub: https://github.com/adeoyerihanat6-prog
-- LinkedIn: https://www.linkedin.com/in/rihanat-adeoye
-- X: https://x.com/riha66076
+- Advanced Backend Development
+- System Design
+- Building scalable full-stack applications
 
 ---
 
-⭐ Thanks for visiting my profile!##
+## 📫 Connect With Me
 
-<!--
-**adeoyerihanat6-prog/adeoyerihanat6-prog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌐 Portfolio: https://portfolio-bay-eight-73.vercel.app
+- 💼 LinkedIn: https://www.linkedin.com/in/rihanat-adeoye/
+- 🐦 X: https://x.com/riha66076
+- 📧 Email: *(adeoyerihanat6@gmail.com)*
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⭐ Thanks for visiting my profile!
