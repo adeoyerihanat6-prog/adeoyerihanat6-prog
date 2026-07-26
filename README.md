@@ -76,6 +76,11 @@ A rule-based chatbot built with HTML, CSS, and JavaScript.
 </p>
 
 ---
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=adeoyerihanat6-prog&theme=github-dark&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ## 🌱 Currently Learning
 
