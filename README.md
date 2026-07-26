@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋🏽, I'm Rihanat Eniola</h1>
 
-<h3 align="center">💜 Full Stack Developer | React • Node.js • MongoDB | Building Modern Web Applications</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+MongoDB;Building+Modern+Web+Applications;Always+Learning+Something+New+%F0%9F%92%9C" alt="Typing SVG" />
+</p>
 
 <p align="center">
 I'm passionate about building modern, responsive, and scalable web applications that solve real-world problems. I enjoy transforming ideas into functional digital experiences while continuously learning and improving my craft.
