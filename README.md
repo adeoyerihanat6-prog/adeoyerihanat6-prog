@@ -1,106 +1,108 @@
-<h1 align="center">Hi 👋🏽, I'm Rihanat Eniola</h1>
+<h1 align="center">
+  Hi 👋🏽, I'm Rihanat Eniola
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+MongoDB;Building+Modern+Web+Applications;Turning+Ideas+Into+Code+%F0%9F%92%9C" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <b>Full Stack Developer from Nigeria 🇳🇬</b>
-</p>
-
-<p align="center">
-  I build modern, responsive, and scalable web applications with a focus on
-  creating useful digital experiences and solving real-world problems.
-  I'm constantly learning, experimenting, and turning ideas into working products.
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+MongoDB;Building+Modern+Web+Experiences;Turning+Ideas+Into+Real+Products" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="https://portfolio-bay-eight-73.vercel.app">
-    <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit-A855F7?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Portfolio-A855F7?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/rihanat-adeoye/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://x.com/riha66076">
-    <img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" />
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
 </p>
 
-<br>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=adeoyerihanat6-prog&label=Profile%20Views&color=A855F7&style=flat-square" />
+</p>
 
 ---
 
 ## 👩🏽‍💻 About Me
 
-- 💻 Full Stack Developer passionate about building real-world applications
-- 🌍 Based in Nigeria 🇳🇬
-- ⚛️ I enjoy working with React and modern JavaScript technologies
-- 🛠️ Currently deepening my backend, API design, and system architecture skills
-- 🚀 Always learning, building, and experimenting with new ideas
-- 🤝 Open to internships, freelance opportunities, and collaborations
+I'm a Full Stack Developer from Nigeria 🇳🇬 who enjoys turning ideas into functional, responsive, and meaningful digital experiences.
+
+I work mainly with React, Node.js, Express, and MongoDB, and I'm currently going deeper into backend architecture, API design, and scalable systems.
+
+I learn by building, breaking things, debugging, and improving.
 
 ---
 
-## 🚀 Featured Projects
+## ⚡ What I Do
 
-<table>
-<tr>
-<td width="50%">
+- 💻 Build full-stack web applications
+- ⚛️ Create modern React interfaces
+- 🔌 Build REST APIs
+- 🔐 Implement authentication systems
+- 🗄️ Work with databases
+- 🚀 Deploy and ship real projects
+---
 
-### 🛍️ Velora
+# 🚀 Featured Projects
 
-A modern full-stack e-commerce platform with product browsing, authentication, and cart management.
+## 📓 Cyber Diary
 
-**Stack:**  
-React • Vite • Tailwind CSS • Node.js • Express • MongoDB
+> A tiny corner of the internet for thoughts, memories, ideas, and little pieces of life.
 
-🔗 **[Live Demo](https://velora-three-lilac.vercel.app)**
+A personal creative web experience designed around an aesthetic digital-journal concept.
 
-</td>
+**Built with:** `HTML` `CSS` `JavaScript`
 
-<td width="50%">
+🔗 [Live Demo](https://cyberdiary.vercel.app)
 
-### 💰 Rihvelle Finance
+---
 
-A full-stack loan management system featuring secure authentication, role-based access, and database integration.
+## 🛍️ Velora
 
-**Stack:**  
-React • Node.js • Express • MongoDB • JWT
+> A modern full-stack e-commerce experience.
 
-🔗 **[Live Demo](https://loan-frontend-olive.vercel.app)**
+A complete e-commerce platform featuring product browsing, authentication, cart management, and a responsive interface.
 
-</td>
-</tr>
+**Built with:** `React` `Vite` `Tailwind CSS` `Node.js` `Express` `MongoDB`
 
-<tr>
-<td width="50%">
+🔗 [Live Demo](https://velora-three-lilac.vercel.app)
 
-### 🎬 Enny's Portfolio
+---
 
-A cinematic portfolio website built for an AI Video Creator, featuring smooth animations and responsive layouts.
+## 💰 Rihvelle Finance
 
-**Stack:**  
-React • Tailwind CSS • Framer Motion
+> A full-stack loan management system.
 
-🔗 **[Live Demo](https://enny-s-portfolio.vercel.app)**
+A financial management application featuring secure authentication, role-based access, database integration, and a structured backend.
 
-</td>
+**Built with:** `React` `Node.js` `Express` `MongoDB` `JWT`
 
-<td width="50%">
+🔗 [Live Demo](https://loan-frontend-olive.vercel.app)
 
-### 🤖 DecodeBot
+---
 
-A lightweight rule-based chatbot built from scratch using vanilla web technologies.
+## 🎬 Enny's Portfolio
 
-**Stack:**  
-HTML • CSS • JavaScript
+> A cinematic portfolio for an AI Video Creator.
 
-🔗 **[Live Demo](https://decodebot-ten.vercel.app)**
+A visually focused portfolio website with smooth animations, responsive layouts, and an immersive presentation.
 
-</td>
-</tr>
-</table>
+**Built with:** `React` `Tailwind CSS` `Framer Motion`
 
+🔗 [Live Demo](https://enny-s-portfolio.vercel.app)
+
+---
+
+## 🤖 DecodeBot
+
+> A lightweight rule-based chatbot built from scratch.
+
+A simple chatbot experiment built using vanilla web technologies without external frameworks.
+
+**Built with:** `HTML` `CSS` `JavaScript`
+
+🔗 [Live Demo](https://decodebot-ten.vercel.app)
 ---
 
 ## 🧰 Tech Stack
@@ -125,46 +127,53 @@ HTML • CSS • JavaScript
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adeoyerihanat6-prog&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adeoyerihanat6-prog&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=adeoyerihanat6-prog&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
+    height="180"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=adeoyerihanat6-prog&layout=compact&theme=tokyonight&hide_border=true"
+    height="180"
+    alt="Top Languages"
+  />
 </p>
 
----## 🌱 Currently Learning
+## 🌱 Currently Exploring
 
 - 🏗️ Backend Architecture
 - 🔌 API Design
 - 🧠 System Design
 - ⚡ Performance Optimization
-
-I'm focused on becoming a stronger full-stack engineer by understanding not just how to build applications, but how to design systems that are reliable, maintainable, and scalable.
-
----
-
-## 💡 What I Like Building
-
-- ⚡ Modern Web Applications
-- 🔐 Authentication & Authorization Systems
-- 🛒 E-commerce Platforms
-- 💰 FinTech & Management Systems
-- 🎨 Interactive & Responsive Interfaces
-- 🤖 Small Tools & Experiments
+- 📐 Better Software Architecture
 
 ---
 
-## 📈 My Developer Journey
+## 🧠 My Development Philosophy
 
-I started with the fundamentals of web development and gradually moved into building full-stack applications.
+**Learn → Build → Break → Debug → Improve → Repeat.**
 
-Today, I'm focused on going beyond simply making things work — I'm learning how to write better code, design better systems, and build applications that can scale.
+I don't believe in waiting until I know everything before building.
 
-> **Learn → Build → Break → Debug → Improve → Repeat.**
+I learn by building, making mistakes, debugging, and trying again.
 
 ---
 
-## 📫 Let's Connect
+## 🎯 What's Next?
+
+- 🔥 Build more full-stack products
+- 🧠 Improve backend architecture skills
+- ⚙️ Learn deeper system design concepts
+- 🚀 Ship more personal projects
+- 🤝 Collaborate with other developers
+- 📚 Keep learning something new
+
+---
+
+## 🤝 Let's Connect
 
 <p align="center">
   <a href="https://portfolio-bay-eight-73.vercel.app">
@@ -184,9 +193,9 @@ Today, I'm focused on going beyond simply making things work — I'm learning ho
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=adeoyerihanat6-prog&label=Profile%20Views&color=A855F7&style=for-the-badge" alt="Profile Views" />
+  <i>✨ Building ideas into reality, one commit at a time.</i>
 </p>
 
 <p align="center">
-  <i>💜 Building scalable solutions, one commit at a time.</i>
+  <b>Made with 💜 by Rihanat Eniola</b>
 </p>
