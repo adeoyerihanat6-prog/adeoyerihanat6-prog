@@ -1,201 +1,97 @@
-<h1 align="center">
-  Hi 👋🏽, I'm Rihanat Eniola
-</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+MongoDB;Building+Modern+Web+Experiences;Turning+Ideas+Into+Real+Products" alt="Typing SVG" />
-</p>
+# Hi 👋🏽, I'm Rihanat Eniola
 
-<p align="center">
-  <a href="https://portfolio-bay-eight-73.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-A855F7?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/rihanat-adeoye/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://x.com/riha66076">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+MongoDB;Building+Modern+Web+Experiences;Turning+Ideas+Into+Real+Products" alt="Typing SVG" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=adeoyerihanat6-prog&label=Profile%20Views&color=A855F7&style=flat-square" />
-</p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-A855F7?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-bay-eight-73.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rihanat-adeoye/)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/riha66076)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adeoyerihanat6-prog)
+
+<img src="https://komarev.com/ghpvc/?username=adeoyerihanat6-prog&label=Profile%20Views&color=A855F7&style=flat-square" alt="Profile Views" />
+
+</div>
 
 ---
 
 ## 👩🏽‍💻 About Me
 
-I'm a Full Stack Developer from Nigeria 🇳🇬 who enjoys turning ideas into functional, responsive, and meaningful digital experiences.
+I'm a Full Stack Developer from Nigeria 🇳🇬 who loves turning creative ideas into functional, responsive, and impactful digital experiences. 
 
-I work mainly with React, Node.js, Express, and MongoDB, and I'm currently going deeper into backend architecture, API design, and scalable systems.
-
-I learn by building, breaking things, debugging, and improving.
+My core stack revolves around **React, Node.js, Express, and MongoDB**. Currently, I am diving deeper into backend architecture, robust API design, and scalable system patterns. I truly believe that the best way to master code is by building, breaking, debugging, and repeating.
 
 ---
 
 ## ⚡ What I Do
 
-- 💻 Build full-stack web applications
-- ⚛️ Create modern React interfaces
-- 🔌 Build REST APIs
-- 🔐 Implement authentication systems
-- 🗄️ Work with databases
-- 🚀 Deploy and ship real projects
----
-
-# 🚀 Featured Projects
-
-## 📓 Cyber Diary
-
-> A tiny corner of the internet for thoughts, memories, ideas, and little pieces of life.
-
-A personal creative web experience designed around an aesthetic digital-journal concept.
-
-**Built with:** `HTML` `CSS` `JavaScript`
-
-🔗 [Live Demo](https://cyberdiary.vercel.app)
+* 💻 Build full-stack web applications from scratch
+* ⚛️ Craft modern, interactive React interfaces
+* 🔌 Design and develop reliable REST APIs
+* 🔐 Implement secure authentication and authorization flows
+* 🗄️ Manage and structure databases effectively
+* 🚀 Deploy and ship production-ready projects
 
 ---
 
-## 🛍️ Velora
+## 🚀 Featured Projects
 
-> A modern full-stack e-commerce experience.
+### 📓 Cyber Diary
+> *A tiny corner of the internet for thoughts, memories, and ideas.*
+* **Built with:** HTML, CSS, JavaScript
+* [Live Demo](https://cyberdiary.vercel.app)
 
-A complete e-commerce platform featuring product browsing, authentication, cart management, and a responsive interface.
+### 🛍️ Velora
+> *A modern full-stack e-commerce experience.*
+* **Built with:** React, Vite, Tailwind CSS, Node.js, Express, MongoDB
+* [Live Demo](https://velora-three-lilac.vercel.app)
 
-**Built with:** `React` `Vite` `Tailwind CSS` `Node.js` `Express` `MongoDB`
+### 💰 Rihvelle Finance
+> *A secure full-stack loan management system.*
+* **Built with:** React, Node.js, Express, MongoDB, JWT
+* [Live Demo](https://loan-frontend-olive.vercel.app)
 
-🔗 [Live Demo](https://velora-three-lilac.vercel.app)
+### 🎬 Enny's Portfolio
+> *A cinematic portfolio for an AI Video Creator.*
+* **Built with:** React, Tailwind CSS, Framer Motion
+* [Live Demo](https://enny-s-portfolio.vercel.app)
 
----
+### 🤖 DecodeBot
+> *A lightweight rule-based chatbot built entirely from scratch.*
+* **Built with:** HTML, CSS, JavaScript
+* [Live Demo](https://decodebot-ten.vercel.app)
 
-## 💰 Rihvelle Finance
-
-> A full-stack loan management system.
-
-A financial management application featuring secure authentication, role-based access, database integration, and a structured backend.
-
-**Built with:** `React` `Node.js` `Express` `MongoDB` `JWT`
-
-🔗 [Live Demo](https://loan-frontend-olive.vercel.app)
-
----
-
-## 🎬 Enny's Portfolio
-
-> A cinematic portfolio for an AI Video Creator.
-
-A visually focused portfolio website with smooth animations, responsive layouts, and an immersive presentation.
-
-**Built with:** `React` `Tailwind CSS` `Framer Motion`
-
-🔗 [Live Demo](https://enny-s-portfolio.vercel.app)
-
----
-
-## 🤖 DecodeBot
-
-> A lightweight rule-based chatbot built from scratch.
-
-A simple chatbot experiment built using vanilla web technologies without external frameworks.
-
-**Built with:** `HTML` `CSS` `JavaScript`
-
-🔗 [Live Demo](https://decodebot-ten.vercel.app)
 ---
 
 ## 🧰 Tech Stack
 
-### Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
-</p>
-
-### Backend & Database
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
-</p>
-
-### Tools & Deployment
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel" />
-</p>
+| Category | Technologies |
+| :--- | :--- |
+| **Frontend** | ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white) |
+| **Backend & DB** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) |
+| **Tools & Cloud** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white) |
 
 ---
 
-## 📊 GitHub
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=adeoyerihanat6-prog&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
-    height="180"
-    alt="GitHub Stats"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=adeoyerihanat6-prog&layout=compact&theme=tokyonight&hide_border=true"
-    height="180"
-    alt="Top Languages"
-  />
-</p>
-
 ## 🌱 Currently Exploring
 
-- 🏗️ Backend Architecture
-- 🔌 API Design
-- 🧠 System Design
-- ⚡ Performance Optimization
-- 📐 Better Software Architecture
+* 🏗️ Advanced Backend Architecture
+* 🔌 Clean API Design Principles
+* 🧠 System Design Fundamentals
+* ⚡ Performance & Optimization Strategies
 
 ---
 
 ## 🧠 My Development Philosophy
 
-**Learn → Build → Break → Debug → Improve → Repeat.**
-
-I don't believe in waiting until I know everything before building.
-
-I learn by building, making mistakes, debugging, and trying again.
+> **Learn → Build → Break → Debug → Improve → Repeat.**
 
 ---
 
-## 🎯 What's Next?
+<div align="center">
 
-- 🔥 Build more full-stack products
-- 🧠 Improve backend architecture skills
-- ⚙️ Learn deeper system design concepts
-- 🚀 Ship more personal projects
-- 🤝 Collaborate with other developers
-- 📚 Keep learning something new
-
----
-
-## 🤝 Let's Connect
-
-<p align="center">
-  <a href="https://portfolio-bay-eight-73.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-A855F7?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/rihanat-adeoye/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://x.com/riha66076">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
-  <a href="https://github.com/adeoyerihanat6-prog">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
----
-
-<p align="center">
   <i>✨ Building ideas into reality, one commit at a time.</i>
-</p>
 
-<p align="center">
-  <b>Made with 💜 by Rihanat Eniola</b>
-</p>
+  **Made with 💜 by Rihanat Eniola**
+
+</div>
