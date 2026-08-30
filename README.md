@@ -4,9 +4,9 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+MongoDB;Building+Modern+Web+Experiences;Turning+Ideas+Into+Real+Products" alt="Typing SVG" />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-A855F7?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-bay-eight-73.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-A855F7?style=for-the-badge&logo=vercel&logoColor=white)](https://rihannahcodesportfolio.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rihanat-adeoye/)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/riha66076)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/RihannahCodes)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adeoyerihanat6-prog)
 
 <img src="https://komarev.com/ghpvc/?username=adeoyerihanat6-prog&label=Profile%20Views&color=A855F7&style=flat-square" alt="Profile Views" />
@@ -92,6 +92,6 @@ My core stack revolves around **React, Node.js, Express, and MongoDB**. Currentl
 
   <i>✨ Building ideas into reality, one commit at a time.</i>
 
-  **Made with 💜 by Rihanat Eniola**
+  **Built by Rihanat Eniola**
 
 </div>
