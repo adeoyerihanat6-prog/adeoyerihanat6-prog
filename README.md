@@ -2,14 +2,14 @@
 
 # Hi 👋🏽, I'm Rihanat Eniola
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+MongoDB;Building+Modern+Web+Experiences;Turning+Ideas+Into+Real+Products" alt="Typing SVG" />
+### Full Stack Web Developer building things, learning loudly, and figuring it out one project at a time.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-A855F7?style=for-the-badge&logo=vercel&logoColor=white)](https://rihannahcodesportfolio.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rihanat-adeoye/)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/RihannahCodes)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adeoyerihanat6-prog)
+React • TypeScript • Node.js • Supabase • MongoDB • AI
 
-<img src="https://komarev.com/ghpvc/?username=adeoyerihanat6-prog&label=Profile%20Views&color=A855F7&style=flat-square" alt="Profile Views" />
+[![Portfolio](https://img.shields.io/badge/Portfolio-171615?style=for-the-badge&logo=vercel&logoColor=white)](https://rihannahcodesportfolio.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-171615?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rihanat-adeoye/)
+[![X](https://img.shields.io/badge/X-171615?style=for-the-badge&logo=x&logoColor=white)](https://x.com/RihannahCodes)
+[![GitHub](https://img.shields.io/badge/GitHub-171615?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adeoyerihanat6-prog)
 
 </div>
 
@@ -17,81 +17,114 @@
 
 ## 👩🏽‍💻 About Me
 
-I'm a Full Stack Developer from Nigeria 🇳🇬 who loves turning creative ideas into functional, responsive, and impactful digital experiences. 
+I'm a Full Stack Web Developer from Nigeria 🇳🇬 who enjoys turning ideas into real, usable products.
 
-My core stack revolves around **React, Node.js, Express, and MongoDB**. Currently, I am diving deeper into backend architecture, robust API design, and scalable system patterns. I truly believe that the best way to master code is by building, breaking, debugging, and repeating.
+I started with the fundamentals of web development and gradually moved into full-stack applications with **React, Node.js, Express, and MongoDB**. These days, I'm expanding into **TypeScript, Supabase, and AI-powered applications** while getting more intentional about understanding the systems behind the code I write.
 
----
+I learn best by building things — then breaking them, debugging them, and figuring out why they broke.
 
-## ⚡ What I Do
-
-* 💻 Build full-stack web applications from scratch
-* ⚛️ Craft modern, interactive React interfaces
-* 🔌 Design and develop reliable REST APIs
-* 🔐 Implement secure authentication and authorization flows
-* 🗄️ Manage and structure databases effectively
-* 🚀 Deploy and ship production-ready projects
+I'm especially interested in building products that are useful, thoughtful, and actually solve a problem.
 
 ---
 
-## 🚀 Featured Projects
+## 🛠️ What I'm Working With
 
-### 📓 Cyber Diary
-> *A tiny corner of the internet for thoughts, memories, and ideas.*
-* **Built with:** HTML, CSS, JavaScript
-* [Live Demo](https://cyberdiary.vercel.app)
+**Frontend**
+
+React · TypeScript · JavaScript · Tailwind CSS · Framer Motion · Vite
+
+**Backend & Data**
+
+Node.js · Express · MongoDB · Mongoose · Supabase · REST APIs
+
+**AI & Emerging Tools**
+
+AI APIs · AI-powered features · Prompt design · AI application development
+
+**Tools**
+
+Git · GitHub · Postman · VS Code · Vercel · Render
+
+---
+
+## 🚀 Projects
+
+### ✍🏽 Writing Coach
+
+An AI-powered writing coach I'm building to help people communicate their ideas more clearly — including developers who want to improve their technical writing.
+
+**Exploring:** TypeScript · Supabase · AI · SQL · React Native / Expo
+
+> This is also my first serious step into building an AI-powered application, so I'm documenting the process as I learn.
+
+---
 
 ### 🛍️ Velora
-> *A modern full-stack e-commerce experience.*
-* **Built with:** React, Vite, Tailwind CSS, Node.js, Express, MongoDB
-* [Live Demo](https://velora-three-lilac.vercel.app)
+
+A full-stack e-commerce application built to explore real-world application architecture, authentication, product management, orders, reviews, and more.
+
+**Built with:** React · JavaScript · Node.js · Express · MongoDB · Tailwind CSS
+
+[Live Demo](https://velora-three-lilac.vercel.app)
+
+---
+
+### 📓 Cyber Diary
+
+A personal digital diary built around memories, thoughts, music, and little pieces of everyday life.
+
+**Built with:** React · Tailwind CSS · Framer Motion
+
+[Live Demo](https://cyberdiary.vercel.app)
+
+---
 
 ### 💰 Rihvelle Finance
-> *A secure full-stack loan management system.*
-* **Built with:** React, Node.js, Express, MongoDB, JWT
-* [Live Demo](https://loan-frontend-olive.vercel.app)
+
+A full-stack loan management application with authentication and different user flows for managing loan-related data.
+
+**Built with:** React · Node.js · Express · MongoDB · JWT
+
+[Live Demo](https://loan-frontend-olive.vercel.app)
+
+---
 
 ### 🎬 Enny's Portfolio
-> *A cinematic portfolio for an AI Video Creator.*
-* **Built with:** React, Tailwind CSS, Framer Motion
-* [Live Demo](https://enny-s-portfolio.vercel.app)
 
-### 🤖 DecodeBot
-> *A lightweight rule-based chatbot built entirely from scratch.*
-* **Built with:** HTML, CSS, JavaScript
-* [Live Demo](https://decodebot-ten.vercel.app)
+A cinematic portfolio website created for an AI video creator.
+
+**Built with:** React · Tailwind CSS · Framer Motion
+
+[Live Demo](https://enny-s-portfolio.vercel.app)
 
 ---
 
-## 🧰 Tech Stack
+## 🌱 Currently Learning
 
-| Category | Technologies |
-| :--- | :--- |
-| **Frontend** | ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white) |
-| **Backend & DB** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) |
-| **Tools & Cloud** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white) |
-
----
-
-## 🌱 Currently Exploring
-
-* 🏗️ Advanced Backend Architecture
-* 🔌 Clean API Design Principles
-* 🧠 System Design Fundamentals
-* ⚡ Performance & Optimization Strategies
+- Writing better TypeScript
+- Working with Supabase and SQL
+- Building AI-powered applications
+- Backend architecture
+- API design
+- Understanding systems instead of just making them work
+- Writing clearer technical explanations
 
 ---
 
-## 🧠 My Development Philosophy
+## 🧠 How I Learn
 
-> **Learn → Build → Break → Debug → Improve → Repeat.**
+**Learn → Build → Break → Debug → Understand → Improve**
+
+I don't want to just know *what code works*.
+
+I want to understand **why it works**.
 
 ---
 
 <div align="center">
 
-  <i>✨ Building ideas into reality, one commit at a time.</i>
+### RihannahCodes
 
-  **Built by Rihanat Eniola**
+*Building, learning, breaking things, and shipping anyway. 🚀*
 
 </div>
